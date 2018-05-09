@@ -9,6 +9,8 @@
 + Vim-colors-solarized(https://github.com/altercation/vim-colors-solarized)
 + Vim-surround (https://github.com/tpope/vim-surround)
 + Vim-fugitive (https://github.com/tpope/vim-fugitive)
++ Vim-dirdiff(https://github.com/will133/vim-dirdiff)
++ Vim-gitgutter (https://github.com/airblade/vim-gitgutter)
 
 
 # Regular expression
