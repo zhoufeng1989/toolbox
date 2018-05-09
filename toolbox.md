@@ -12,6 +12,21 @@
 + Vim-dirdiff(https://github.com/will133/vim-dirdiff)
 + Vim-gitgutter (https://github.com/airblade/vim-gitgutter)
 
+# Python
+## Version management
++ Pyenv (https://github.com/pyenv/pyenv)
+
+# HTTP
++ Httpie (https://httpie.org/)
++ Mitmproxy (https://mitmproxy.org/)
+
+# Shell
++ Zsh (http://zsh.sourceforge.net/)
++ Oh My Zsh (http://ohmyz.sh/)
+
+# Termimal
++ iTerm2 (https://www.iterm2.com/)
 
 # Regular expression
 + [Visualize regular expression](https://regexper.com/)
+
